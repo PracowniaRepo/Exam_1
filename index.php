@@ -97,10 +97,7 @@ if($a6<$b+$c6 && $b6<$a6+$c6 && $c6<$b6+$a6){
 }else{
      echo "<br> nie da sie zbudowac trojkata";
 }
-
-
-
-
+echo '<hr>';
 
 ?>
 
